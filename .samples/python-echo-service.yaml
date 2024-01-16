@@ -1,0 +1,13 @@
+displayName: Flask Application
+description: ECHO Service - HTTP POST implemented using Flask
+componentType: service
+buildPack: python
+repositoryUrl: https://github.com/wso2/choreo-samples/
+componentPath: /python-echo-service
+thumbnailPath: /icons/python-flask-app.svg
+documentationPath: /python-flask-app/readme.md
+tags:
+  - Python
+  - Flask
+  - REST
+  - Echo Service
