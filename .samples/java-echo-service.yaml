@@ -1,0 +1,14 @@
+displayName: Echo Service - Java Springboot Application
+description: Echo Service - HTTP POST implemented using Springboot
+componentType: service
+buildPack: docker
+repositoryUrl: https://github.com/wso2/choreo-samples/
+componentPath: /java-echo-service
+thumbnailPath: /icons/java-reading-list-rest-api.svg
+documentationPath: /java-echo-service/readme.md
+tags:
+  - HTTP
+  - Java
+  - Springboot
+  - REST
+  - Echo Service
